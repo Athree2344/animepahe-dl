@@ -1,5 +1,5 @@
 # animepahe-dl
-
+git clone https://github.com/athree2344/anime-pahe-attack-on-titans-season-1.git
 > Download anime videos from [animepahe](https://animepahe.com/) in terminal
 
 ## Table of Contents
